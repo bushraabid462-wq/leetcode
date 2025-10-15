@@ -17,19 +17,19 @@ Your branch is up to date with 'origin/main'.
 nothing to commit, working tree clean
 AB@192 leetcode % ls -l
 total 8
-drwxr-xr-x  4 AB  staff  128 Nov 20 02:02 1-two-sum
-drwxr-xr-x  4 AB  staff  128 Nov 20 02:02 118-pascals-triangle
-drwxr-xr-x  4 AB  staff  128 Nov 20 02:02 119-pascals-triangle-ii
+drwxr-xr-x  4 AB  staff  128 oct  02:02 1-two-sum
+drwxr-xr-x  4 AB  staff  128 oct 20 02:02 118-pascals-triangle
+drwxr-xr-x  4 AB  staff  128 oct 20 02:02 119-pascals-triangle-ii
 drwxr-xr-x  4 AB  staff  128 Nov 20 02:02 121-best-time-to-buy-and-sell-stock
 drwxr-xr-x  4 AB  staff  128 Nov 20 02:02 125-valid-palindrome
 drwxr-xr-x  4 AB  staff  128 Nov 20 02:02 13-roman-to-integer
 drwxr-xr-x  4 AB  staff  128 Nov 20 02:02 136-single-number
-drwxr-xr-x  4 AB  staff  128 Nov 20 02:02 14-longest-common-prefix
-drwxr-xr-x  4 AB  staff  128 Nov 20 02:02 169-majority-element
-drwxr-xr-x  4 AB  staff  128 Nov 20 02:02 1777-determine-if-two-strings-are-close
-drwxr-xr-x  4 AB  staff  128 Nov 20 02:02 20-valid-parentheses
-drwxr-xr-x  4 AB  staff  128 Nov 20 02:02 203-remove-linked-list-elements
-drwxr-xr-x  4 AB  staff  128 Nov 20 02:02 206-reverse-linked-list
+drwxr-xr-x  4 AB  staff  128 oct 20 02:02 14-longest-common-prefix
+drwxr-xr-x  4 AB  staff  128 oct 20 02:02 169-majority-element
+drwxr-xr-x  4 AB  staff  128 oct 20 02:02 1777-determine-if-two-strings-are-close
+drwxr-xr-x  4 AB  staff  128 oct 20 02:02 20-valid-parentheses
+drwxr-xr-x  4 AB  staff  128 oct 20 02:02 203-remove-linked-list-elements
+drwxr-xr-x  4 AB  staff  128 oct 20 02:02 206-reverse-linked-list
 drwxr-xr-x  4 AB  staff  128 Nov 20 02:02 21-merge-two-sorted-lists
 drwxr-xr-x  4 AB  staff  128 Nov 20 02:02 26-remove-duplicates-from-sorted-array
 drwxr-xr-x  4 AB  staff  128 Nov 20 02:02 27-remove-element
@@ -41,8 +41,8 @@ drwxr-xr-x  4 AB  staff  128 Nov 20 02:02 58-length-of-last-word
 drwxr-xr-x  4 AB  staff  128 Nov 20 02:02 66-plus-one
 drwxr-xr-x  4 AB  staff  128 Nov 20 02:02 67-add-binary
 drwxr-xr-x  4 AB  staff  128 Nov 20 02:02 69-sqrtx
-drwxr-xr-x  4 AB  staff  128 Nov 20 02:02 7-reverse-integer
-drwxr-xr-x  4 AB  staff  128 Nov 20 02:02 9-palindrome-number
+drwxr-xr-x  4 AB  staff  128 oct 20 02:02 7-reverse-integer
+drwxr-xr-x  4 AB  staff  128 oct 20 02:02 9-palindrome-number
 AB@192 leetcode % git status
 On branch main
 Your branch is up to date with 'origin/main'.
